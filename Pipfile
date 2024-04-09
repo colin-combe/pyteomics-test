@@ -5,7 +5,9 @@ name = "pypi"
 
 [packages]
 pyteomics = ">=3.4.2"
-
+lxml = ">=4.9.1"
+numpy = ">=1.14.3"
+memory_profiler = "*"
 [dev-packages]
 
 [requires]
